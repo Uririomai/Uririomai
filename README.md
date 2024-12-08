@@ -26,7 +26,7 @@ Uririomai@yandex.ru
 
 ## 💼 Проекты
 
-- [Проект 1] - [Конструктор интернет-магазинов](https://github.com/Uririomai/Maestro)
+- [Проект 1] - [Конструктор интернет-магазинов](https://github.com/Uririomai/Maestro)  */in dev*
 - [Проект 2] - [Лендинг](https://helenhaderer.ru/)
 - [Проект 3] - [Learn project](https://uririomai.github.io/cookies/)
 
