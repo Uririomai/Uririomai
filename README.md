@@ -18,7 +18,7 @@
 
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/ChuhlievSS)
 [![VK](https://img.shields.io/badge/VK-4680C2?style=flat&logo=vk&logoColor=white)](https://vk.com/ChuhlievSS)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:Uririomai@yandex.ru)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:Uririomai@yandex.ru) Uririomai@yandex.ru
 
 ---
 
