@@ -29,7 +29,7 @@ Uririomai@yandex.ru
 - [Проект 1] - [Конструктор интернет-магазинов](https://github.com/Uririomai/Maestro) 
 - [Проект 2] - [Landing page on vanila JS](https://helenhaderer.ru/)
 - [Проект 3] - [Landing page on Angular](https://uririomai.github.io/cookies/)
-- [Проект 4] - [Игра-платформер на Unity]([https://uririomai.github.io/cookies/](https://github.com/Uririomai/Doodle/tree/main))
+- [Проект 4] - [Игра-платформер на Unity](https://github.com/Uririomai/Doodle/tree/main)
 
 ---
 
