@@ -7,10 +7,10 @@
 
 ## ⚙️ Мои навыки
 
-- **Языки программирования**: JavaScript
-- **Библиотеки и фреймворки**: React, Redux
+- **Языки программирования**: TypeScript, JavaScript
+- **Библиотеки и фреймворки**: React, Redux, RTK
 - **Стилизация**: SCSS, CSS
-- **Инструменты**: Git, NPM, Yarn, HTML, Webpack
+- **Инструменты**: Git, NPM, Yarn, HTML, Webpack, Docker
 
 ---
 
@@ -20,7 +20,7 @@
 [![VK](https://img.shields.io/badge/VK-4680C2?style=flat&logo=vk&logoColor=white)](https://vk.com/ChuhlievSS)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:Uririomai@yandex.ru) 
 
-Uririomai@yandex.ru
+SS@Chuhliev.ru
 
 ---
 
